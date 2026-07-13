@@ -1,0 +1,9 @@
+project:
+  name: Moneynosleep
+  stage: review_validation
+  live_trading_enabled: false
+
+paths:
+  duckdb: data/duckdb/mns.duckdb
+  parquet_root: data/parquet
+  reports_root: data/reports

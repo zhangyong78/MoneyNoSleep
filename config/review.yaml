@@ -1,0 +1,23 @@
+review_statuses:
+  - PENDING_REVIEW
+  - APPROVED
+  - QUESTIONABLE
+  - REJECTED
+  - NEED_OPTIMIZATION
+
+problem_tags:
+  - chase_high
+  - buy_too_early
+  - buy_too_late
+  - sell_too_early
+  - sell_too_late
+  - weak_sector
+  - not_leader
+  - stop_too_tight
+  - stop_too_wide
+  - market_filter_missing
+
+chart:
+  price_overlay_indicators:
+    - EMA21
+    - EMA55

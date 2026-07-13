@@ -1,0 +1,6 @@
+duckdb:
+  path: data/duckdb/mns.duckdb
+
+parquet:
+  root: data/parquet
+  kline_partition_template: kline/timeframe={timeframe}/trade_date={trade_date}

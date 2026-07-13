@@ -1,0 +1,5 @@
+quick_review:
+  hold_days: 5
+  initial_cash: 1000000
+  buy_price: next_open
+  sell_price: close_after_n_days

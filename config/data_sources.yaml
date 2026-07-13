@@ -1,0 +1,7 @@
+providers:
+  csv_public:
+    enabled: true
+    root: data/raw/public
+  qmt:
+    enabled: false
+    root: data/raw/qmt
