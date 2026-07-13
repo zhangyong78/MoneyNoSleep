@@ -3,12 +3,4 @@ __pycache__/
 *.py[cod]
 *.egg-info/
 .venv/
-
-data/duckdb/*.duckdb
-data/parquet/
-data/reports/screenshots/
-data/reports/exports/
-data/reports/html/
-data/config/
-
 data/
