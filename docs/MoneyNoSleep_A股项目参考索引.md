@@ -27,6 +27,7 @@
 
 ## 结果和实验记录
 
+- [`docs/Moneynosleep_MA20退出模式测试记录_20260713.md`](/D:/MoneyNoSleep/docs/Moneynosleep_MA20退出模式测试记录_20260713.md)
 - [`docs/Moneynosleep_100万固定2万资金占用回测_20260712.md`](/D:/MoneyNoSleep/docs/Moneynosleep_100万固定2万资金占用回测_20260712.md)
 - [`docs/Moneynosleep_100万固定2万50仓回测_20260712.md`](/D:/MoneyNoSleep/docs/Moneynosleep_100万固定2万50仓回测_20260712.md)
 - [`docs/Moneynosleep_两阶段趋势选股回测留痕_20260711.md`](/D:/MoneyNoSleep/docs/Moneynosleep_两阶段趋势选股回测留痕_20260711.md)
